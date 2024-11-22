@@ -1,0 +1,1 @@
+anomalib fit -c fastflow.yaml --data config.yaml
