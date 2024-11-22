@@ -1,1 +1,27 @@
 anomalib fit -c fastflow.yaml --data config.yaml
+
+
+# 1. 創建並激活 Anaconda 環境
+conda create -n anomalib_env python=3.10 -y
+conda activate anomalib_env
+
+# 2. 安裝 Git
+conda install git -y
+
+# 3. 克隆 GitHub 倉庫
+git clone https://github.com/DioWang67/Anomalib_train.git
+
+# 4. 進入克隆的倉庫目錄
+cd Anomalib_train
+
+# 5. 安裝所需的依賴
+pip install -r requirements.txt
+
+# 6. 安裝 anomalib 库
+pip install anomalib
+
+# 7. 安裝 anomalib（如果需要從源碼安裝）
+# pip install git+https://github.com/openvinotoolkit/anomalib.git
+
+# 8. 檢查已安裝的依賴
+pip list
