@@ -27,7 +27,7 @@ def convert_jpg_to_png(input_folder, output_folder):
                 print(f"無法處理 {jpg_path}：{e}")
 
 # 使用範例
-input_folder = r"D:\Git\robotlearning\Anomalib_train\datasets\con1\test\defect_type1"  # 替換為你的輸入資料夾路徑
-output_folder = r"D:\Git\robotlearning\Anomalib_train\datasets\con1\test\defect_type1"  # 替換為你的輸出資料夾路徑
+input_folder = r"D:\Git\robotlearning\Anomalib_train\datasets\con1\train\good"  # 替換為你的輸入資料夾路徑
+output_folder = r"D:\Git\robotlearning\Anomalib_train\datasets\con1\train\good"  # 替換為你的輸出資料夾路徑
 
 convert_jpg_to_png(input_folder, output_folder)

@@ -119,8 +119,8 @@ def test_single_image(model_path, image_path):
     }
 
 if __name__ == "__main__":
-    model_path = r"D:\Dio\robotlearning\Anomalib_train\results\Fastflow\MVTec\con1\v14\weights\lightning\model.ckpt"
-    image_path = "165235_con1_0.png"
+    model_path = r"D:\Git\robotlearning\Anomalib_train\results\Fastflow\MVTec\con1\v14\weights\lightning\model.ckpt"
+    image_path = r"D:\Git\robotlearning\Anomalib_train\datasets\con1\test\defect_type_1\165245_con1_0.png"
     
     try:
         print("开始执行预测...")
