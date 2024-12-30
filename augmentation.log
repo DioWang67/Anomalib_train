@@ -1,0 +1,41 @@
+2024-11-25 17:24:36,147 - INFO - 成功從 config_img_annotator.yaml 加載配置
+2024-11-25 17:24:36,149 - INFO - 創建輸出目錄成功: output\images
+2024-11-25 17:24:36,151 - ERROR - 輸入圖片目錄不存在: original_img
+2024-11-25 17:28:38,837 - ERROR - 加載配置文件失敗: while scanning a double-quoted scalar
+  in "config_img_annotator.yaml", line 2, column 14
+found unknown escape character 'G'
+  in "config_img_annotator.yaml", line 2, column 18
+2024-11-25 17:28:38,838 - INFO - 創建輸出目錄成功: output\images
+2024-11-25 17:28:38,840 - ERROR - 輸入圖片目錄不存在: input\images
+2024-11-25 17:30:24,569 - ERROR - 加載配置文件失敗: while scanning a double-quoted scalar
+  in "config_img_annotator.yaml", line 2, column 14
+found unknown escape character 'G'
+  in "config_img_annotator.yaml", line 2, column 18
+2024-11-25 17:30:24,575 - INFO - 創建輸出目錄成功: output\images
+2024-11-25 17:30:24,578 - ERROR - 輸入圖片目錄不存在: input\images
+2024-11-25 17:31:49,787 - ERROR - 加載配置文件失敗: while scanning a double-quoted scalar
+  in "config_img_annotator.yaml", line 2, column 14
+found unknown escape character 'G'
+  in "config_img_annotator.yaml", line 2, column 18
+2024-11-25 17:31:49,788 - INFO - 創建輸出目錄成功: output\images
+2024-11-25 17:31:49,793 - ERROR - 輸入圖片目錄不存在: input\images
+2024-11-25 17:32:48,443 - INFO - 成功從 config_img_annotator.yaml 加載配置
+2024-11-25 17:32:48,444 - INFO - 創建輸出目錄成功: output\images
+2024-11-25 17:32:48,448 - INFO - 開始處理 152 張圖片
+2024-11-25 17:33:02,315 - INFO - 處理完成! 耗時: 13.87 秒
+2024-11-25 17:35:51,516 - INFO - 成功從 config_img_annotator.yaml 加載配置
+2024-11-25 17:35:51,517 - INFO - 創建輸出目錄成功: output\images
+2024-11-25 17:35:51,521 - INFO - 開始處理 152 張圖片
+2024-11-25 17:36:05,368 - INFO - 處理完成! 耗時: 13.85 秒
+2024-11-25 17:37:01,690 - INFO - 成功從 config_img_annotator.yaml 加載配置
+2024-11-25 17:37:01,690 - INFO - 創建輸出目錄成功: output\fail
+2024-11-25 17:37:20,910 - INFO - 成功從 config_img_annotator.yaml 加載配置
+2024-11-25 17:37:20,910 - INFO - 創建輸出目錄成功: output\fail
+2024-11-25 17:37:49,204 - INFO - 成功從 config_img_annotator.yaml 加載配置
+2024-11-25 17:37:49,204 - INFO - 創建輸出目錄成功: output\fail
+2024-11-25 17:37:49,208 - INFO - 開始處理 152 張圖片
+2024-11-25 17:37:50,680 - INFO - 處理完成! 耗時: 1.47 秒
+2024-11-25 17:38:54,367 - INFO - 成功從 config_img_annotator.yaml 加載配置
+2024-11-25 17:38:54,368 - INFO - 創建輸出目錄成功: output\fail
+2024-11-25 17:38:54,372 - INFO - 開始處理 152 張圖片
+2024-11-25 17:38:56,141 - INFO - 處理完成! 耗時: 1.77 秒

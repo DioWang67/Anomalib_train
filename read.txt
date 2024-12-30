@@ -1,4 +1,4 @@
-anomalib fit -c fastflow.yaml --data config.yaml
+anomalib fit -c patchcore.yaml --data config.yaml
 
 
 # 1. 創建並激活 Anaconda 環境
@@ -25,3 +25,7 @@ pip install anomalib
 
 # 8. 檢查已安裝的依賴
 pip list
+
+pip install openvino
+
+#patchcore model 40g GPUram
